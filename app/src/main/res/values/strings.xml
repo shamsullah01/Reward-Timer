@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusQuest</string>
+    <string name="app_tagline">Level Up Your Focus, Unlock Epic Rewards!</string>
+    
+    <!-- Navigation -->
+    <string name="title_timers">🎯 Focus Quest</string>
+    <string name="title_rewards">🏆 Garage</string>
+    <string name="title_stats">📊 Progress</string>
+    <string name="title_settings">⚙️ Settings</string>
+    
+    <!-- Gamification & Engagement -->
+    <string name="welcome_back_hero">Welcome back, Focus Hero! 🚀</string>
+    <string name="level_up">LEVEL UP! 🎉</string>
+    <string name="streak_fire">🔥 STREAK: %d days</string>
+    <string name="daily_challenge">⚡ Daily Challenge</string>
+    <string name="weekly_quest">🏅 Weekly Quest</string>
+    <string name="achievement_unlocked">🏆 ACHIEVEMENT UNLOCKED!</string>
+    
+    <!-- Focus Levels -->
+    <string name="focus_rookie">🥉 Focus Rookie</string>
+    <string name="focus_warrior">🥈 Focus Warrior</string>
+    <string name="focus_master">🥇 Focus Master</string>
+    <string name="focus_legend">💎 Focus Legend</string>
+    <string name="focus_mythic">👑 Mythic Focus</string>
+    
+    <!-- Timer States -->
+    <string name="timer_charging">⚡ Charging Focus Power...</string>
+    <string name="timer_active">🎯 Focus Mode Active</string>
+    <string name="timer_warning">⚠️ Focus Breaking Soon!</string>
+    <string name="timer_expired">💥 Focus Power Depleted!</string>
+    
+    <!-- Quest System -->
+    <string name="quest_avoid_social">🚫📱 Avoid Social Media for 2 hours</string>
+    <string name="quest_focus_marathon">🏃‍♂️ Complete 5 focus sessions today</string>
+    <string name="quest_weekend_warrior">🎮 Stay focused all weekend</string>
+    <string name="quest_early_bird">🐦 Complete morning focus session</string>
+    <string name="quest_night_owl">🦉 Evening focus challenge</string>
+    
+    <!-- Rewards & Vehicles -->
+    <string name="garage_title">🏎️ Your Epic Garage</string>
+    <string name="vehicle_locked">🔒 Unlock at Level %d</string>
+    <string name="vehicle_new">✨ NEW!</string>
+    
+    <!-- Vehicle Collection -->
+    <string name="bike_basic">🚲 City Bike</string>
+    <string name="bike_mountain">🚵‍♂️ Mountain Bike</string>
+    <string name="motorcycle_sport">🏍️ Sport Bike</string>
+    <string name="motorcycle_cruiser">🛵 Cruiser</string>
+    <string name="car_compact">🚗 Compact Car</string>
+    <string name="car_sports">🏎️ Sports Car</string>
+    <string name="car_luxury">🚘 Luxury Sedan</string>
+    <string name="car_supercar">🔥 Supercar</string>
+    <string name="car_hypercar">⚡ Hypercar</string>
+    <string name="truck_pickup">🛻 Pickup Truck</string>
+    <string name="truck_monster">🚚 Monster Truck</string>
+    <string name="boat_yacht">🛥️ Luxury Yacht</string>
+    <string name="plane_jet">✈️ Private Jet</string>
+    <string name="rocket_space">🚀 Space Rocket</string>
+    
+    <!-- Power-ups & Boosters -->
+    <string name="powerup_shield">🛡️ Distraction Shield</string>
+    <string name="powerup_boost">⚡ Focus Boost</string>
+    <string name="powerup_freeze">❄️ Time Freeze</string>
+    <string name="powerup_double">💰 Double Rewards</string>
+    
+    <!-- Challenges & Streaks -->
+    <string name="challenge_complete">✅ Challenge Complete!</string>
+    <string name="streak_bonus">🔥 Streak Bonus: +%d XP</string>
+    <string name="perfect_day">🌟 Perfect Focus Day!</string>
+    <string name="combo_multiplier">🎯 Combo x%d</string>
+    
+    <!-- Motivational Messages -->
+    <string name="motivation_start">You\'ve got this! Start your focus journey! 💪</string>
+    <string name="motivation_progress">Amazing progress! Keep the momentum going! 🚀</string>
+    <string name="motivation_streak">Your focus streak is on fire! Don\'t break it! 🔥</string>
+    <string name="motivation_levelup">You\'re leveling up! Your focus skills are incredible! ⭐</string>
+    
+    <!-- Social Features -->
+    <string name="leaderboard">🏆 Focus Leaderboard</string>
+    <string name="share_achievement">Share your achievement!</string>
+    <string name="challenge_friends">Challenge Friends</string>
+    <string name="focus_battle">⚔️ Focus Battle</string>
+    
+    <!-- Placeholder content -->
+    <string name="rewards_coming_soon">Rewards Gallery Coming Soon!</string>
+    <string name="stats_coming_soon">Usage Stats Coming Soon!</string>
+    <string name="settings_coming_soon">Settings Coming Soon!</string>
+    
+    <!-- Notifications -->
+    <string name="notification_timer_expired">Timer Expired</string>
+    <string name="notification_app_blocked">App is now blocked</string>
+    <string name="notification_reward_earned">Reward Earned!</string>
+    
+    <!-- Accessibility -->
+    <string name="times_up_title">Time\'s Up!</string>
+    <string name="times_up_message">Take a break and try something else.</string>
+    <string name="close_button">Close</string>
+    <string name="accessibility_service_description">Reward Timer uses this service to monitor app usage and block apps when timers expire</string>
+</resources>
